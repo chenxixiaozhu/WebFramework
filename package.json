@@ -1,0 +1,8 @@
+{
+  "name": "p",
+  "version": "1.0.0",
+  "size_width": "800",
+  "size_height": "400",
+  "icon": "test.ico",
+  "main_html": "./res/index.html"
+}
